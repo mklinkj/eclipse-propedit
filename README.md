@@ -59,3 +59,13 @@ Java SE 9에서는 프로퍼티 파일을 UTF-8 인코딩으로 로드합니다.
 * https://docs.oracle.com/javase/9/intl/internationalization-enhancements-jdk-9.htm#GUID-974CF488-23E8-4963-A322-82006A7A14C7
   * https://github.com/adoptium/jdk8u/blob/master/jdk/src/share/classes/java/util/PropertyResourceBundle.java
   * https://github.com/adoptium/jdk17u/blob/master/src/java.base/share/classes/java/util/PropertyResourceBundle.java
+
+
+---
+### 수동 설치
+수동 설치 관련해서는...
+
+* jp.gr.java_conf.ussiy.app.propedit_6.0.5.jar
+* jp.gr.java_conf.ussiy.app.propedit.nl_6.0.0.jar
+
+위의 두 파일만 eclipse의 `dropins` 디렉토리에 넣어두면 설치가 된다.
