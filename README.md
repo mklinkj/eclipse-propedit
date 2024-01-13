@@ -62,7 +62,7 @@ Java SE 9에서는 프로퍼티 파일을 UTF-8 인코딩으로 로드합니다.
 
 
 ---
-### 수동 설치
+### [수동 설치](Files)
 수동 설치 관련해서는...
 
 * jp.gr.java_conf.ussiy.app.propedit_6.0.5.jar
